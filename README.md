@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **full-stack projects**
 
-- 🤝 I’m looking for help with **web hosting** and **docker**
+- 🤝 I’m looking for help with **docker**
 
 - 💬 Ask me about **html, css, js, react js, bootstrap, tailwind, sass, postgreSQL, jQuery, express js, APIs, OAuth,**
 
