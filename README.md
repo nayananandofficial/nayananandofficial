@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayananandofficial" alt="nayananandofficial" /></a> </p>
 
-- 🔭 I’m currently working on Gym-AI Project
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Next js | GSAP | Lottie**
+- 🌱 I’m currently learning **PWA**
 
 - 👯 I’m looking to collaborate on **full-stack projects**
 
-- 🤝 I’m looking for help with **docker**
+- 🤝 I’m looking for help with **Containerization(Docker), CI/CD, AWS**
 
-- 💬 Ask me about **html, css, js, react js, bootstrap, tailwind, sass, postgreSQL, jQuery, express js, APIs, OAuth,**
+- 💬 Ask me about **front-end and back-end technologies**
 
 - 📫 How to reach me **anandanayanofficial@gmail.com**
 
