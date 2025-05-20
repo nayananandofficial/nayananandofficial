@@ -28,7 +28,6 @@ Hi there! I'm Nayan, a self-taught developer passionate about crafting smart, us
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="Sass" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gsap/gsap-original.svg" width="40" alt="GSAP" />
   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="40" alt="Framer Motion" />
 </div>
 
