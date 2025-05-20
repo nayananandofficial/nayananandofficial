@@ -23,9 +23,6 @@ Hi there! I'm Nayan, a self-taught developer passionate about crafting smart, us
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" alt="Vercel" />
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" alt="Vercel" />
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" alt="Netlify" />
 </div>
 
 ---
