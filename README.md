@@ -1,8 +1,8 @@
 # 💻 Nayan Anand
 
-**Full-Stack Developer | AI Explorer | Continuous Learner**
+**Full-Stack Developer | Non-Vibe Coder | Startup Co-Founder**
 
-Hi there! I'm Nayan, a self-taught developer passionate about crafting smart, user-centric web applications. I love turning ideas into tools that feel intuitive, efficient, and human. I blend creativity with logic to build full-stack solutions, and I’m currently exploring AI integration to build the next generation of web experiences.
+Hi there! I'm Nayan, a young developer who is skilled at many things. But, I started from ZERO. I learnt things that I couldn't get from college and started implementing it to real world. I was able to convert my thoughts into applications. I try to blend creativity with logic to build solutions that solves current or future pain points, and I’m currently exploring AI integration to build the next generation of web experiences.
 
 ---
 
@@ -20,9 +20,7 @@ Hi there! I'm Nayan, a self-taught developer passionate about crafting smart, us
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="Sass" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
@@ -35,10 +33,9 @@ Hi there! I'm Nayan, a self-taught developer passionate about crafting smart, us
 ## 🔭 Current Focus
 
 - ⚙️ Full-stack development with **MERN** & **PERN**
-- 🧠 AI-driven features like chatbots, fit guides, and smart agents
+- 🧠 AI-driven products like chatbots, automation tools, and smart agents
 - 🎯 Building real-world, job-ready applications with scalable architecture
-- 💻 Participating in hackathons and shipping MVPs fast
-
+- 💻 Shipping fast
 ---
 
 ## 🧠 Notable Projects
@@ -47,7 +44,7 @@ Hi there! I'm Nayan, a self-taught developer passionate about crafting smart, us
 **Tech:** Next.js, Bright Data MCP, GPT  
 → An autonomous AI agent that scrapes, summarizes, and responds to questions using real-time data from developer forums.
 
-### 🧵 Style-Speak-Match *(In Progress)*  
+### 🧵 NYLA Fashion *(In Progress)*  
 **AI-Powered Fashion eCommerce Platform**  
 An intelligent platform that combines fashion discovery, voice search, and contextual chatbots to make shopping smarter and more personal.  
 **Tech:** React, Node.js, Express, MongoDB, Web Speech API, GPT-based AI features
@@ -64,7 +61,6 @@ A job listing UI built using React with dynamic filtering, clean layout, and mod
 
 ## 🏆 Highlights
 
-- 🧠 Currently competing in the **Bright Data Real-Time AI Agents Hackathon** 
 - 🛠️ Contributing to projects focused on **autonomous agents**, **data scraping**, and **voice AI**
 - 🧑‍💻 Continuously building practical tools that integrate real-time data, AI, and automation  
 - 📚 Documenting the journey of becoming a real-world full-stack + AI dev
