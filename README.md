@@ -1,33 +1,21 @@
-# Nayan Anand
+# Hey There!👋
 
 **Full-Stack Developer (TypeScript / React / Node.js)**
 
-I build full-stack web applications focused on system workflows, product interfaces, and AI-assisted tools.
+I'm Nayan. I build full-stack web applications focused on system workflows, product interfaces, and AI-assisted tools.
 
 ## 🔭 Current Focus
 
 - **Next.js** + **TypeScript** full-stack systems
 - AI-integrated web applications
 - building deployable products and developer tools
+- Building a kanban style adaptive task manager with role assignation & role-based focus mode
   
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="left">
-  ---Languages---<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />---Frontend
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" />---Backend---
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />---Databases---
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />---Tools---
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" alt="Supabase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" width="100" alt="Vecel"/>  
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongo,postgres,git,supabase,vercel)](https://skillicons.dev)
 
 ---
 
