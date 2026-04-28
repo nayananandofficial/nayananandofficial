@@ -54,7 +54,4 @@ Tech: React, Node.js, OpenRouter, ElevenLabs
 - 💼 [LinkedIn](https://www.linkedin.com/in/nayan-b-anand-15bb881a2/)
 - 🌐 [Portfolio](#) *(Coming soon!)*
 
----
-
-> “I'm not just writing code — I'm rewriting who I am.”
 
