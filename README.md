@@ -44,7 +44,7 @@ Tech: React, Node.js, OpenRouter, ElevenLabs
 
 ---
 
-[![roadmap.sh](https://roadmap.sh/card/tall/6732068b31d65c235dfa1e06?variant=dark&roadmaps=)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/6732068b31d65c235dfa1e06?variant=dark&roadmaps=)(https://roadmap.sh/u/nayananand?roadmapId=datastructures-and-algorithms)](https://roadmap.sh)
 
 ---
 
