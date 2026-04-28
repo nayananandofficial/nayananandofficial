@@ -44,12 +44,7 @@ Tech: React, Node.js, OpenRouter, ElevenLabs
 
 ---
 
-## 🏆 Highlights
-
-- 🛠️ Contributing to projects focused on **autonomous agents**, **data scraping**, and **voice AI**
-- 🧑‍💻 Continuously building practical tools that integrate real-time data, AI, and automation  
-- 📚 Documenting the journey of becoming a real-world full-stack + AI dev
-
+[![roadmap.sh](https://roadmap.sh/card/tall/6732068b31d65c235dfa1e06?variant=dark&roadmaps=)](https://roadmap.sh)
 
 ---
 
